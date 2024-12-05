@@ -1,0 +1,2489 @@
+{
+    "geez": [
+      {
+        "syllable": "ሀ",
+        "syllable_decimal": 4608,
+        "syllable_hex": "1200",
+        "syllable_phonetic": "HA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሁ",
+        "syllable_decimal": 4609,
+        "syllable_hex": "1201",
+        "syllable_phonetic": "HU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሂ",
+        "syllable_decimal": 4610,
+        "syllable_hex": "1202",
+        "syllable_phonetic": "HI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሃ",
+        "syllable_decimal": 4611,
+        "syllable_hex": "1203",
+        "syllable_phonetic": "HAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሄ",
+        "syllable_decimal": 4612,
+        "syllable_hex": "1204",
+        "syllable_phonetic": "HEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ህ",
+        "syllable_decimal": 4613,
+        "syllable_hex": "1205",
+        "syllable_phonetic": "HE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሆ",
+        "syllable_decimal": 4614,
+        "syllable_hex": "1206",
+        "syllable_phonetic": "HO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሇ",
+        "syllable_decimal": 4615,
+        "syllable_hex": "1207",
+        "syllable_phonetic": "HOA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ለ",
+        "syllable_decimal": 4616,
+        "syllable_hex": "1208",
+        "syllable_phonetic": "LA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሉ",
+        "syllable_decimal": 4617,
+        "syllable_hex": "1209",
+        "syllable_phonetic": "LU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሊ",
+        "syllable_decimal": 4618,
+        "syllable_hex": "120A",
+        "syllable_phonetic": "LI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ላ",
+        "syllable_decimal": 4619,
+        "syllable_hex": "120B",
+        "syllable_phonetic": "LAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሌ",
+        "syllable_decimal": 4620,
+        "syllable_hex": "120C",
+        "syllable_phonetic": "LEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ል",
+        "syllable_decimal": 4621,
+        "syllable_hex": "120D",
+        "syllable_phonetic": "LE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሎ",
+        "syllable_decimal": 4622,
+        "syllable_hex": "120E",
+        "syllable_phonetic": "LO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሏ",
+        "syllable_decimal": 4623,
+        "syllable_hex": "120F",
+        "syllable_phonetic": "LWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሐ",
+        "syllable_decimal": 4624,
+        "syllable_hex": "1210",
+        "syllable_phonetic": "HHA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሑ",
+        "syllable_decimal": 4625,
+        "syllable_hex": "1211",
+        "syllable_phonetic": "HHU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሒ",
+        "syllable_decimal": 4626,
+        "syllable_hex": "1212",
+        "syllable_phonetic": "HHI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሓ",
+        "syllable_decimal": 4627,
+        "syllable_hex": "1213",
+        "syllable_phonetic": "HHAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሔ",
+        "syllable_decimal": 4628,
+        "syllable_hex": "1214",
+        "syllable_phonetic": "HHEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሕ",
+        "syllable_decimal": 4629,
+        "syllable_hex": "1215",
+        "syllable_phonetic": "HHE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሖ",
+        "syllable_decimal": 4630,
+        "syllable_hex": "1216",
+        "syllable_phonetic": "HHO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሗ",
+        "syllable_decimal": 4631,
+        "syllable_hex": "1217",
+        "syllable_phonetic": "HHWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "መ",
+        "syllable_decimal": 4632,
+        "syllable_hex": "1218",
+        "syllable_phonetic": "MA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሙ",
+        "syllable_decimal": 4633,
+        "syllable_hex": "1219",
+        "syllable_phonetic": "MU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሚ",
+        "syllable_decimal": 4634,
+        "syllable_hex": "121A",
+        "syllable_phonetic": "MI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ማ",
+        "syllable_decimal": 4635,
+        "syllable_hex": "121B",
+        "syllable_phonetic": "MAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሜ",
+        "syllable_decimal": 4636,
+        "syllable_hex": "121C",
+        "syllable_phonetic": "MEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ም",
+        "syllable_decimal": 4637,
+        "syllable_hex": "121D",
+        "syllable_phonetic": "ME",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሞ",
+        "syllable_decimal": 4638,
+        "syllable_hex": "121E",
+        "syllable_phonetic": "MO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሟ",
+        "syllable_decimal": 4639,
+        "syllable_hex": "121F",
+        "syllable_phonetic": "MWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሠ",
+        "syllable_decimal": 4640,
+        "syllable_hex": "1220",
+        "syllable_phonetic": "SZA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሡ",
+        "syllable_decimal": 4641,
+        "syllable_hex": "1221",
+        "syllable_phonetic": "SZU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሢ",
+        "syllable_decimal": 4642,
+        "syllable_hex": "1222",
+        "syllable_phonetic": "SZI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሣ",
+        "syllable_decimal": 4643,
+        "syllable_hex": "1223",
+        "syllable_phonetic": "SZAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሤ",
+        "syllable_decimal": 4644,
+        "syllable_hex": "1224",
+        "syllable_phonetic": "SZEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሥ",
+        "syllable_decimal": 4645,
+        "syllable_hex": "1225",
+        "syllable_phonetic": "SZE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሦ",
+        "syllable_decimal": 4646,
+        "syllable_hex": "1226",
+        "syllable_phonetic": "SZO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሧ",
+        "syllable_decimal": 4647,
+        "syllable_hex": "1227",
+        "syllable_phonetic": "SZWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ረ",
+        "syllable_decimal": 4648,
+        "syllable_hex": "1228",
+        "syllable_phonetic": "RA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሩ",
+        "syllable_decimal": 4649,
+        "syllable_hex": "1229",
+        "syllable_phonetic": "RU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሪ",
+        "syllable_decimal": 4650,
+        "syllable_hex": "122A",
+        "syllable_phonetic": "RI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ራ",
+        "syllable_decimal": 4651,
+        "syllable_hex": "122B",
+        "syllable_phonetic": "RAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሬ",
+        "syllable_decimal": 4652,
+        "syllable_hex": "122C",
+        "syllable_phonetic": "REE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ር",
+        "syllable_decimal": 4653,
+        "syllable_hex": "122D",
+        "syllable_phonetic": "RE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሮ",
+        "syllable_decimal": 4654,
+        "syllable_hex": "122E",
+        "syllable_phonetic": "RO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሯ",
+        "syllable_decimal": 4655,
+        "syllable_hex": "122F",
+        "syllable_phonetic": "RWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሰ",
+        "syllable_decimal": 4656,
+        "syllable_hex": "1230",
+        "syllable_phonetic": "SA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሱ",
+        "syllable_decimal": 4657,
+        "syllable_hex": "1231",
+        "syllable_phonetic": "SU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሲ",
+        "syllable_decimal": 4658,
+        "syllable_hex": "1232",
+        "syllable_phonetic": "SI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሳ",
+        "syllable_decimal": 4659,
+        "syllable_hex": "1233",
+        "syllable_phonetic": "SAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሴ",
+        "syllable_decimal": 4660,
+        "syllable_hex": "1234",
+        "syllable_phonetic": "SEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ስ",
+        "syllable_decimal": 4661,
+        "syllable_hex": "1235",
+        "syllable_phonetic": "SE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሶ",
+        "syllable_decimal": 4662,
+        "syllable_hex": "1236",
+        "syllable_phonetic": "SO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሷ",
+        "syllable_decimal": 4663,
+        "syllable_hex": "1237",
+        "syllable_phonetic": "SWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሸ",
+        "syllable_decimal": 4664,
+        "syllable_hex": "1238",
+        "syllable_phonetic": "SHA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሹ",
+        "syllable_decimal": 4665,
+        "syllable_hex": "1239",
+        "syllable_phonetic": "SHU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሺ",
+        "syllable_decimal": 4666,
+        "syllable_hex": "123A",
+        "syllable_phonetic": "SHI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሻ",
+        "syllable_decimal": 4667,
+        "syllable_hex": "123B",
+        "syllable_phonetic": "SHAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሼ",
+        "syllable_decimal": 4668,
+        "syllable_hex": "123C",
+        "syllable_phonetic": "SHEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሽ",
+        "syllable_decimal": 4669,
+        "syllable_hex": "123D",
+        "syllable_phonetic": "SHE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሾ",
+        "syllable_decimal": 4670,
+        "syllable_hex": "123E",
+        "syllable_phonetic": "SHO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ሿ",
+        "syllable_decimal": 4671,
+        "syllable_hex": "123F",
+        "syllable_phonetic": "SHWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቀ",
+        "syllable_decimal": 4672,
+        "syllable_hex": "1240",
+        "syllable_phonetic": "QA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቁ",
+        "syllable_decimal": 4673,
+        "syllable_hex": "1241",
+        "syllable_phonetic": "QU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቂ",
+        "syllable_decimal": 4674,
+        "syllable_hex": "1242",
+        "syllable_phonetic": "QI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቃ",
+        "syllable_decimal": 4675,
+        "syllable_hex": "1243",
+        "syllable_phonetic": "QAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቄ",
+        "syllable_decimal": 4676,
+        "syllable_hex": "1244",
+        "syllable_phonetic": "QEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቅ",
+        "syllable_decimal": 4677,
+        "syllable_hex": "1245",
+        "syllable_phonetic": "QE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቆ",
+        "syllable_decimal": 4678,
+        "syllable_hex": "1246",
+        "syllable_phonetic": "QO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቇ",
+        "syllable_decimal": 4679,
+        "syllable_hex": "1247",
+        "syllable_phonetic": "QOA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቈ",
+        "syllable_decimal": 4680,
+        "syllable_hex": "1248",
+        "syllable_phonetic": "QWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቊ",
+        "syllable_decimal": 4682,
+        "syllable_hex": "124A",
+        "syllable_phonetic": "QWI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቋ",
+        "syllable_decimal": 4683,
+        "syllable_hex": "124B",
+        "syllable_phonetic": "QWAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቌ",
+        "syllable_decimal": 4684,
+        "syllable_hex": "124C",
+        "syllable_phonetic": "QWEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቍ",
+        "syllable_decimal": 4685,
+        "syllable_hex": "124D",
+        "syllable_phonetic": "QWE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቐ",
+        "syllable_decimal": 4688,
+        "syllable_hex": "1250",
+        "syllable_phonetic": "QHA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቑ",
+        "syllable_decimal": 4689,
+        "syllable_hex": "1251",
+        "syllable_phonetic": "QHU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቒ",
+        "syllable_decimal": 4690,
+        "syllable_hex": "1252",
+        "syllable_phonetic": "QHI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቓ",
+        "syllable_decimal": 4691,
+        "syllable_hex": "1253",
+        "syllable_phonetic": "QHAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቔ",
+        "syllable_decimal": 4692,
+        "syllable_hex": "1254",
+        "syllable_phonetic": "QHEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቕ",
+        "syllable_decimal": 4693,
+        "syllable_hex": "1255",
+        "syllable_phonetic": "QHE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቖ",
+        "syllable_decimal": 4694,
+        "syllable_hex": "1256",
+        "syllable_phonetic": "QHO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቘ",
+        "syllable_decimal": 4696,
+        "syllable_hex": "1258",
+        "syllable_phonetic": "QHWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቚ",
+        "syllable_decimal": 4698,
+        "syllable_hex": "125A",
+        "syllable_phonetic": "QHWI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቛ",
+        "syllable_decimal": 4699,
+        "syllable_hex": "125B",
+        "syllable_phonetic": "QHWAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቜ",
+        "syllable_decimal": 4700,
+        "syllable_hex": "125C",
+        "syllable_phonetic": "QHWEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቝ",
+        "syllable_decimal": 4701,
+        "syllable_hex": "125D",
+        "syllable_phonetic": "QHWE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "በ",
+        "syllable_decimal": 4704,
+        "syllable_hex": "1260",
+        "syllable_phonetic": "BA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቡ",
+        "syllable_decimal": 4705,
+        "syllable_hex": "1261",
+        "syllable_phonetic": "BU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቢ",
+        "syllable_decimal": 4706,
+        "syllable_hex": "1262",
+        "syllable_phonetic": "BI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ባ",
+        "syllable_decimal": 4707,
+        "syllable_hex": "1263",
+        "syllable_phonetic": "BAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቤ",
+        "syllable_decimal": 4708,
+        "syllable_hex": "1264",
+        "syllable_phonetic": "BEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ብ",
+        "syllable_decimal": 4709,
+        "syllable_hex": "1265",
+        "syllable_phonetic": "BE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቦ",
+        "syllable_decimal": 4710,
+        "syllable_hex": "1266",
+        "syllable_phonetic": "BO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቧ",
+        "syllable_decimal": 4711,
+        "syllable_hex": "1267",
+        "syllable_phonetic": "BWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቨ",
+        "syllable_decimal": 4712,
+        "syllable_hex": "1268",
+        "syllable_phonetic": "VA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቩ",
+        "syllable_decimal": 4713,
+        "syllable_hex": "1269",
+        "syllable_phonetic": "VU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቪ",
+        "syllable_decimal": 4714,
+        "syllable_hex": "126A",
+        "syllable_phonetic": "VI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቫ",
+        "syllable_decimal": 4715,
+        "syllable_hex": "126B",
+        "syllable_phonetic": "VAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቬ",
+        "syllable_decimal": 4716,
+        "syllable_hex": "126C",
+        "syllable_phonetic": "VEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቭ",
+        "syllable_decimal": 4717,
+        "syllable_hex": "126D",
+        "syllable_phonetic": "VE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቮ",
+        "syllable_decimal": 4718,
+        "syllable_hex": "126E",
+        "syllable_phonetic": "VO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቯ",
+        "syllable_decimal": 4719,
+        "syllable_hex": "126F",
+        "syllable_phonetic": "VWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ተ",
+        "syllable_decimal": 4720,
+        "syllable_hex": "1270",
+        "syllable_phonetic": "TA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቱ",
+        "syllable_decimal": 4721,
+        "syllable_hex": "1271",
+        "syllable_phonetic": "TU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቲ",
+        "syllable_decimal": 4722,
+        "syllable_hex": "1272",
+        "syllable_phonetic": "TI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ታ",
+        "syllable_decimal": 4723,
+        "syllable_hex": "1273",
+        "syllable_phonetic": "TAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቴ",
+        "syllable_decimal": 4724,
+        "syllable_hex": "1274",
+        "syllable_phonetic": "TEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ት",
+        "syllable_decimal": 4725,
+        "syllable_hex": "1275",
+        "syllable_phonetic": "TE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቶ",
+        "syllable_decimal": 4726,
+        "syllable_hex": "1276",
+        "syllable_phonetic": "TO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቷ",
+        "syllable_decimal": 4727,
+        "syllable_hex": "1277",
+        "syllable_phonetic": "TWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቸ",
+        "syllable_decimal": 4728,
+        "syllable_hex": "1278",
+        "syllable_phonetic": "CA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቹ",
+        "syllable_decimal": 4729,
+        "syllable_hex": "1279",
+        "syllable_phonetic": "CU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቺ",
+        "syllable_decimal": 4730,
+        "syllable_hex": "127A",
+        "syllable_phonetic": "CI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቻ",
+        "syllable_decimal": 4731,
+        "syllable_hex": "127B",
+        "syllable_phonetic": "CAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቼ",
+        "syllable_decimal": 4732,
+        "syllable_hex": "127C",
+        "syllable_phonetic": "CEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ች",
+        "syllable_decimal": 4733,
+        "syllable_hex": "127D",
+        "syllable_phonetic": "CE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቾ",
+        "syllable_decimal": 4734,
+        "syllable_hex": "127E",
+        "syllable_phonetic": "CO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ቿ",
+        "syllable_decimal": 4735,
+        "syllable_hex": "127F",
+        "syllable_phonetic": "CWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኀ",
+        "syllable_decimal": 4736,
+        "syllable_hex": "1280",
+        "syllable_phonetic": "XA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኁ",
+        "syllable_decimal": 4737,
+        "syllable_hex": "1281",
+        "syllable_phonetic": "XU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኂ",
+        "syllable_decimal": 4738,
+        "syllable_hex": "1282",
+        "syllable_phonetic": "XI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኃ",
+        "syllable_decimal": 4739,
+        "syllable_hex": "1283",
+        "syllable_phonetic": "XAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኄ",
+        "syllable_decimal": 4740,
+        "syllable_hex": "1284",
+        "syllable_phonetic": "XEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኅ",
+        "syllable_decimal": 4741,
+        "syllable_hex": "1285",
+        "syllable_phonetic": "XE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኆ",
+        "syllable_decimal": 4742,
+        "syllable_hex": "1286",
+        "syllable_phonetic": "XO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኇ",
+        "syllable_decimal": 4743,
+        "syllable_hex": "1287",
+        "syllable_phonetic": "XOA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኈ",
+        "syllable_decimal": 4744,
+        "syllable_hex": "1288",
+        "syllable_phonetic": "XWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኊ",
+        "syllable_decimal": 4746,
+        "syllable_hex": "128A",
+        "syllable_phonetic": "XWI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኋ",
+        "syllable_decimal": 4747,
+        "syllable_hex": "128B",
+        "syllable_phonetic": "XWAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኌ",
+        "syllable_decimal": 4748,
+        "syllable_hex": "128C",
+        "syllable_phonetic": "XWEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኍ",
+        "syllable_decimal": 4749,
+        "syllable_hex": "128D",
+        "syllable_phonetic": "XWE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ነ",
+        "syllable_decimal": 4752,
+        "syllable_hex": "1290",
+        "syllable_phonetic": "NA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኑ",
+        "syllable_decimal": 4753,
+        "syllable_hex": "1291",
+        "syllable_phonetic": "NU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኒ",
+        "syllable_decimal": 4754,
+        "syllable_hex": "1292",
+        "syllable_phonetic": "NI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ና",
+        "syllable_decimal": 4755,
+        "syllable_hex": "1293",
+        "syllable_phonetic": "NAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኔ",
+        "syllable_decimal": 4756,
+        "syllable_hex": "1294",
+        "syllable_phonetic": "NEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ን",
+        "syllable_decimal": 4757,
+        "syllable_hex": "1295",
+        "syllable_phonetic": "NE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኖ",
+        "syllable_decimal": 4758,
+        "syllable_hex": "1296",
+        "syllable_phonetic": "NO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኗ",
+        "syllable_decimal": 4759,
+        "syllable_hex": "1297",
+        "syllable_phonetic": "NWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኘ",
+        "syllable_decimal": 4760,
+        "syllable_hex": "1298",
+        "syllable_phonetic": "NYA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኙ",
+        "syllable_decimal": 4761,
+        "syllable_hex": "1299",
+        "syllable_phonetic": "NYU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኚ",
+        "syllable_decimal": 4762,
+        "syllable_hex": "129A",
+        "syllable_phonetic": "NYI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኛ",
+        "syllable_decimal": 4763,
+        "syllable_hex": "129B",
+        "syllable_phonetic": "NYAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኜ",
+        "syllable_decimal": 4764,
+        "syllable_hex": "129C",
+        "syllable_phonetic": "NYEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኝ",
+        "syllable_decimal": 4765,
+        "syllable_hex": "129D",
+        "syllable_phonetic": "NYE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኞ",
+        "syllable_decimal": 4766,
+        "syllable_hex": "129E",
+        "syllable_phonetic": "NYO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኟ",
+        "syllable_decimal": 4767,
+        "syllable_hex": "129F",
+        "syllable_phonetic": "NYWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "አ",
+        "syllable_decimal": 4768,
+        "syllable_hex": "12A0",
+        "syllable_phonetic": "A",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኡ",
+        "syllable_decimal": 4769,
+        "syllable_hex": "12A1",
+        "syllable_phonetic": "U",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኢ",
+        "syllable_decimal": 4770,
+        "syllable_hex": "12A2",
+        "syllable_phonetic": "I",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኣ",
+        "syllable_decimal": 4771,
+        "syllable_hex": "12A3",
+        "syllable_phonetic": "AA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኤ",
+        "syllable_decimal": 4772,
+        "syllable_hex": "12A4",
+        "syllable_phonetic": "EE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "እ",
+        "syllable_decimal": 4773,
+        "syllable_hex": "12A5",
+        "syllable_phonetic": "E",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኦ",
+        "syllable_decimal": 4774,
+        "syllable_hex": "12A6",
+        "syllable_phonetic": "O",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኧ",
+        "syllable_decimal": 4775,
+        "syllable_hex": "12A7",
+        "syllable_phonetic": "WA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ከ",
+        "syllable_decimal": 4776,
+        "syllable_hex": "12A8",
+        "syllable_phonetic": "KA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኩ",
+        "syllable_decimal": 4777,
+        "syllable_hex": "12A9",
+        "syllable_phonetic": "KU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኪ",
+        "syllable_decimal": 4778,
+        "syllable_hex": "12AA",
+        "syllable_phonetic": "KI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ካ",
+        "syllable_decimal": 4779,
+        "syllable_hex": "12AB",
+        "syllable_phonetic": "KAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኬ",
+        "syllable_decimal": 4780,
+        "syllable_hex": "12AC",
+        "syllable_phonetic": "KEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ክ",
+        "syllable_decimal": 4781,
+        "syllable_hex": "12AD",
+        "syllable_phonetic": "KE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኮ",
+        "syllable_decimal": 4782,
+        "syllable_hex": "12AE",
+        "syllable_phonetic": "KO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኯ",
+        "syllable_decimal": 4783,
+        "syllable_hex": "12AF",
+        "syllable_phonetic": "KOA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኰ",
+        "syllable_decimal": 4784,
+        "syllable_hex": "12B0",
+        "syllable_phonetic": "KWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኲ",
+        "syllable_decimal": 4786,
+        "syllable_hex": "12B2",
+        "syllable_phonetic": "KWI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኳ",
+        "syllable_decimal": 4787,
+        "syllable_hex": "12B3",
+        "syllable_phonetic": "KWAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኴ",
+        "syllable_decimal": 4788,
+        "syllable_hex": "12B4",
+        "syllable_phonetic": "KWEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኵ",
+        "syllable_decimal": 4789,
+        "syllable_hex": "12B5",
+        "syllable_phonetic": "KWE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኸ",
+        "syllable_decimal": 4792,
+        "syllable_hex": "12B8",
+        "syllable_phonetic": "KXA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኹ",
+        "syllable_decimal": 4793,
+        "syllable_hex": "12B9",
+        "syllable_phonetic": "KXU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኺ",
+        "syllable_decimal": 4794,
+        "syllable_hex": "12BA",
+        "syllable_phonetic": "KXI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኻ",
+        "syllable_decimal": 4795,
+        "syllable_hex": "12BB",
+        "syllable_phonetic": "KXAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኼ",
+        "syllable_decimal": 4796,
+        "syllable_hex": "12BC",
+        "syllable_phonetic": "KXEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኽ",
+        "syllable_decimal": 4797,
+        "syllable_hex": "12BD",
+        "syllable_phonetic": "KXE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ኾ",
+        "syllable_decimal": 4798,
+        "syllable_hex": "12BE",
+        "syllable_phonetic": "KXO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዀ",
+        "syllable_decimal": 4800,
+        "syllable_hex": "12C0",
+        "syllable_phonetic": "KXWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዂ",
+        "syllable_decimal": 4802,
+        "syllable_hex": "12C2",
+        "syllable_phonetic": "KXWI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዃ",
+        "syllable_decimal": 4803,
+        "syllable_hex": "12C3",
+        "syllable_phonetic": "KXWAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዄ",
+        "syllable_decimal": 4804,
+        "syllable_hex": "12C4",
+        "syllable_phonetic": "KXWEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዅ",
+        "syllable_decimal": 4805,
+        "syllable_hex": "12C5",
+        "syllable_phonetic": "KXWE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ወ",
+        "syllable_decimal": 4808,
+        "syllable_hex": "12C8",
+        "syllable_phonetic": "WA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዉ",
+        "syllable_decimal": 4809,
+        "syllable_hex": "12C9",
+        "syllable_phonetic": "WU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዊ",
+        "syllable_decimal": 4810,
+        "syllable_hex": "12CA",
+        "syllable_phonetic": "WI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዋ",
+        "syllable_decimal": 4811,
+        "syllable_hex": "12CB",
+        "syllable_phonetic": "WAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዌ",
+        "syllable_decimal": 4812,
+        "syllable_hex": "12CC",
+        "syllable_phonetic": "WEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ው",
+        "syllable_decimal": 4813,
+        "syllable_hex": "12CD",
+        "syllable_phonetic": "WE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዎ",
+        "syllable_decimal": 4814,
+        "syllable_hex": "12CE",
+        "syllable_phonetic": "WO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዏ",
+        "syllable_decimal": 4815,
+        "syllable_hex": "12CF",
+        "syllable_phonetic": "WOA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዐ",
+        "syllable_decimal": 4816,
+        "syllable_hex": "12D0",
+        "syllable_phonetic": "PHARYNGEAL A",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዑ",
+        "syllable_decimal": 4817,
+        "syllable_hex": "12D1",
+        "syllable_phonetic": "PHARYNGEAL U",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዒ",
+        "syllable_decimal": 4818,
+        "syllable_hex": "12D2",
+        "syllable_phonetic": "PHARYNGEAL I",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዓ",
+        "syllable_decimal": 4819,
+        "syllable_hex": "12D3",
+        "syllable_phonetic": "PHARYNGEAL AA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዔ",
+        "syllable_decimal": 4820,
+        "syllable_hex": "12D4",
+        "syllable_phonetic": "PHARYNGEAL EE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዕ",
+        "syllable_decimal": 4821,
+        "syllable_hex": "12D5",
+        "syllable_phonetic": "PHARYNGEAL E",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዖ",
+        "syllable_decimal": 4822,
+        "syllable_hex": "12D6",
+        "syllable_phonetic": "PHARYNGEAL O",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዘ",
+        "syllable_decimal": 4824,
+        "syllable_hex": "12D8",
+        "syllable_phonetic": "ZA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዙ",
+        "syllable_decimal": 4825,
+        "syllable_hex": "12D9",
+        "syllable_phonetic": "ZU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዚ",
+        "syllable_decimal": 4826,
+        "syllable_hex": "12DA",
+        "syllable_phonetic": "ZI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዛ",
+        "syllable_decimal": 4827,
+        "syllable_hex": "12DB",
+        "syllable_phonetic": "ZAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዜ",
+        "syllable_decimal": 4828,
+        "syllable_hex": "12DC",
+        "syllable_phonetic": "ZEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዝ",
+        "syllable_decimal": 4829,
+        "syllable_hex": "12DD",
+        "syllable_phonetic": "ZE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዞ",
+        "syllable_decimal": 4830,
+        "syllable_hex": "12DE",
+        "syllable_phonetic": "ZO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዟ",
+        "syllable_decimal": 4831,
+        "syllable_hex": "12DF",
+        "syllable_phonetic": "ZWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዠ",
+        "syllable_decimal": 4832,
+        "syllable_hex": "12E0",
+        "syllable_phonetic": "ZHA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዡ",
+        "syllable_decimal": 4833,
+        "syllable_hex": "12E1",
+        "syllable_phonetic": "ZHU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዢ",
+        "syllable_decimal": 4834,
+        "syllable_hex": "12E2",
+        "syllable_phonetic": "ZHI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዣ",
+        "syllable_decimal": 4835,
+        "syllable_hex": "12E3",
+        "syllable_phonetic": "ZHAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዤ",
+        "syllable_decimal": 4836,
+        "syllable_hex": "12E4",
+        "syllable_phonetic": "ZHEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዥ",
+        "syllable_decimal": 4837,
+        "syllable_hex": "12E5",
+        "syllable_phonetic": "ZHE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዦ",
+        "syllable_decimal": 4838,
+        "syllable_hex": "12E6",
+        "syllable_phonetic": "ZHO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዧ",
+        "syllable_decimal": 4839,
+        "syllable_hex": "12E7",
+        "syllable_phonetic": "ZHWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "የ",
+        "syllable_decimal": 4840,
+        "syllable_hex": "12E8",
+        "syllable_phonetic": "YA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዩ",
+        "syllable_decimal": 4841,
+        "syllable_hex": "12E9",
+        "syllable_phonetic": "YU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዪ",
+        "syllable_decimal": 4842,
+        "syllable_hex": "12EA",
+        "syllable_phonetic": "YI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ያ",
+        "syllable_decimal": 4843,
+        "syllable_hex": "12EB",
+        "syllable_phonetic": "YAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዬ",
+        "syllable_decimal": 4844,
+        "syllable_hex": "12EC",
+        "syllable_phonetic": "YEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ይ",
+        "syllable_decimal": 4845,
+        "syllable_hex": "12ED",
+        "syllable_phonetic": "YE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዮ",
+        "syllable_decimal": 4846,
+        "syllable_hex": "12EE",
+        "syllable_phonetic": "YO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዯ",
+        "syllable_decimal": 4847,
+        "syllable_hex": "12EF",
+        "syllable_phonetic": "YOA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ደ",
+        "syllable_decimal": 4848,
+        "syllable_hex": "12F0",
+        "syllable_phonetic": "DA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዱ",
+        "syllable_decimal": 4849,
+        "syllable_hex": "12F1",
+        "syllable_phonetic": "DU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዲ",
+        "syllable_decimal": 4850,
+        "syllable_hex": "12F2",
+        "syllable_phonetic": "DI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዳ",
+        "syllable_decimal": 4851,
+        "syllable_hex": "12F3",
+        "syllable_phonetic": "DAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዴ",
+        "syllable_decimal": 4852,
+        "syllable_hex": "12F4",
+        "syllable_phonetic": "DEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ድ",
+        "syllable_decimal": 4853,
+        "syllable_hex": "12F5",
+        "syllable_phonetic": "DE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዶ",
+        "syllable_decimal": 4854,
+        "syllable_hex": "12F6",
+        "syllable_phonetic": "DO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዷ",
+        "syllable_decimal": 4855,
+        "syllable_hex": "12F7",
+        "syllable_phonetic": "DWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዸ",
+        "syllable_decimal": 4856,
+        "syllable_hex": "12F8",
+        "syllable_phonetic": "DDA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዹ",
+        "syllable_decimal": 4857,
+        "syllable_hex": "12F9",
+        "syllable_phonetic": "DDU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዺ",
+        "syllable_decimal": 4858,
+        "syllable_hex": "12FA",
+        "syllable_phonetic": "DDI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዻ",
+        "syllable_decimal": 4859,
+        "syllable_hex": "12FB",
+        "syllable_phonetic": "DDAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዼ",
+        "syllable_decimal": 4860,
+        "syllable_hex": "12FC",
+        "syllable_phonetic": "DDEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዽ",
+        "syllable_decimal": 4861,
+        "syllable_hex": "12FD",
+        "syllable_phonetic": "DDE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዾ",
+        "syllable_decimal": 4862,
+        "syllable_hex": "12FE",
+        "syllable_phonetic": "DDO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ዿ",
+        "syllable_decimal": 4863,
+        "syllable_hex": "12FF",
+        "syllable_phonetic": "DDWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጀ",
+        "syllable_decimal": 4864,
+        "syllable_hex": "1300",
+        "syllable_phonetic": "JA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጁ",
+        "syllable_decimal": 4865,
+        "syllable_hex": "1301",
+        "syllable_phonetic": "JU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጂ",
+        "syllable_decimal": 4866,
+        "syllable_hex": "1302",
+        "syllable_phonetic": "JI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጃ",
+        "syllable_decimal": 4867,
+        "syllable_hex": "1303",
+        "syllable_phonetic": "JAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጄ",
+        "syllable_decimal": 4868,
+        "syllable_hex": "1304",
+        "syllable_phonetic": "JEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጅ",
+        "syllable_decimal": 4869,
+        "syllable_hex": "1305",
+        "syllable_phonetic": "JE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጆ",
+        "syllable_decimal": 4870,
+        "syllable_hex": "1306",
+        "syllable_phonetic": "JO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጇ",
+        "syllable_decimal": 4871,
+        "syllable_hex": "1307",
+        "syllable_phonetic": "JWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ገ",
+        "syllable_decimal": 4872,
+        "syllable_hex": "1308",
+        "syllable_phonetic": "GA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጉ",
+        "syllable_decimal": 4873,
+        "syllable_hex": "1309",
+        "syllable_phonetic": "GU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጊ",
+        "syllable_decimal": 4874,
+        "syllable_hex": "130A",
+        "syllable_phonetic": "GI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጋ",
+        "syllable_decimal": 4875,
+        "syllable_hex": "130B",
+        "syllable_phonetic": "GAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጌ",
+        "syllable_decimal": 4876,
+        "syllable_hex": "130C",
+        "syllable_phonetic": "GEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ግ",
+        "syllable_decimal": 4877,
+        "syllable_hex": "130D",
+        "syllable_phonetic": "GE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጎ",
+        "syllable_decimal": 4878,
+        "syllable_hex": "130E",
+        "syllable_phonetic": "GO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጏ",
+        "syllable_decimal": 4879,
+        "syllable_hex": "130F",
+        "syllable_phonetic": "GOA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጐ",
+        "syllable_decimal": 4880,
+        "syllable_hex": "1310",
+        "syllable_phonetic": "GWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጒ",
+        "syllable_decimal": 4882,
+        "syllable_hex": "1312",
+        "syllable_phonetic": "GWI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጓ",
+        "syllable_decimal": 4883,
+        "syllable_hex": "1313",
+        "syllable_phonetic": "GWAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጔ",
+        "syllable_decimal": 4884,
+        "syllable_hex": "1314",
+        "syllable_phonetic": "GWEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጕ",
+        "syllable_decimal": 4885,
+        "syllable_hex": "1315",
+        "syllable_phonetic": "GWE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጘ",
+        "syllable_decimal": 4888,
+        "syllable_hex": "1318",
+        "syllable_phonetic": "GGA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጙ",
+        "syllable_decimal": 4889,
+        "syllable_hex": "1319",
+        "syllable_phonetic": "GGU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጚ",
+        "syllable_decimal": 4890,
+        "syllable_hex": "131A",
+        "syllable_phonetic": "GGI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጛ",
+        "syllable_decimal": 4891,
+        "syllable_hex": "131B",
+        "syllable_phonetic": "GGAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጜ",
+        "syllable_decimal": 4892,
+        "syllable_hex": "131C",
+        "syllable_phonetic": "GGEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጝ",
+        "syllable_decimal": 4893,
+        "syllable_hex": "131D",
+        "syllable_phonetic": "GGE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጞ",
+        "syllable_decimal": 4894,
+        "syllable_hex": "131E",
+        "syllable_phonetic": "GGO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጟ",
+        "syllable_decimal": 4895,
+        "syllable_hex": "131F",
+        "syllable_phonetic": "GGWAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጠ",
+        "syllable_decimal": 4896,
+        "syllable_hex": "1320",
+        "syllable_phonetic": "THA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጡ",
+        "syllable_decimal": 4897,
+        "syllable_hex": "1321",
+        "syllable_phonetic": "THU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጢ",
+        "syllable_decimal": 4898,
+        "syllable_hex": "1322",
+        "syllable_phonetic": "THI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጣ",
+        "syllable_decimal": 4899,
+        "syllable_hex": "1323",
+        "syllable_phonetic": "THAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጤ",
+        "syllable_decimal": 4900,
+        "syllable_hex": "1324",
+        "syllable_phonetic": "THEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጥ",
+        "syllable_decimal": 4901,
+        "syllable_hex": "1325",
+        "syllable_phonetic": "THE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጦ",
+        "syllable_decimal": 4902,
+        "syllable_hex": "1326",
+        "syllable_phonetic": "THO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጧ",
+        "syllable_decimal": 4903,
+        "syllable_hex": "1327",
+        "syllable_phonetic": "THWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጨ",
+        "syllable_decimal": 4904,
+        "syllable_hex": "1328",
+        "syllable_phonetic": "CHA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጩ",
+        "syllable_decimal": 4905,
+        "syllable_hex": "1329",
+        "syllable_phonetic": "CHU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጪ",
+        "syllable_decimal": 4906,
+        "syllable_hex": "132A",
+        "syllable_phonetic": "CHI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጫ",
+        "syllable_decimal": 4907,
+        "syllable_hex": "132B",
+        "syllable_phonetic": "CHAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጬ",
+        "syllable_decimal": 4908,
+        "syllable_hex": "132C",
+        "syllable_phonetic": "CHEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጭ",
+        "syllable_decimal": 4909,
+        "syllable_hex": "132D",
+        "syllable_phonetic": "CHE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጮ",
+        "syllable_decimal": 4910,
+        "syllable_hex": "132E",
+        "syllable_phonetic": "CHO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጯ",
+        "syllable_decimal": 4911,
+        "syllable_hex": "132F",
+        "syllable_phonetic": "CHWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጰ",
+        "syllable_decimal": 4912,
+        "syllable_hex": "1330",
+        "syllable_phonetic": "PHA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጱ",
+        "syllable_decimal": 4913,
+        "syllable_hex": "1331",
+        "syllable_phonetic": "PHU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጲ",
+        "syllable_decimal": 4914,
+        "syllable_hex": "1332",
+        "syllable_phonetic": "PHI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጳ",
+        "syllable_decimal": 4915,
+        "syllable_hex": "1333",
+        "syllable_phonetic": "PHAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጴ",
+        "syllable_decimal": 4916,
+        "syllable_hex": "1334",
+        "syllable_phonetic": "PHEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጵ",
+        "syllable_decimal": 4917,
+        "syllable_hex": "1335",
+        "syllable_phonetic": "PHE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጶ",
+        "syllable_decimal": 4918,
+        "syllable_hex": "1336",
+        "syllable_phonetic": "PHO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጷ",
+        "syllable_decimal": 4919,
+        "syllable_hex": "1337",
+        "syllable_phonetic": "PHWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጸ",
+        "syllable_decimal": 4920,
+        "syllable_hex": "1338",
+        "syllable_phonetic": "TSA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጹ",
+        "syllable_decimal": 4921,
+        "syllable_hex": "1339",
+        "syllable_phonetic": "TSU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጺ",
+        "syllable_decimal": 4922,
+        "syllable_hex": "133A",
+        "syllable_phonetic": "TSI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጻ",
+        "syllable_decimal": 4923,
+        "syllable_hex": "133B",
+        "syllable_phonetic": "TSAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጼ",
+        "syllable_decimal": 4924,
+        "syllable_hex": "133C",
+        "syllable_phonetic": "TSEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጽ",
+        "syllable_decimal": 4925,
+        "syllable_hex": "133D",
+        "syllable_phonetic": "TSE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጾ",
+        "syllable_decimal": 4926,
+        "syllable_hex": "133E",
+        "syllable_phonetic": "TSO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ጿ",
+        "syllable_decimal": 4927,
+        "syllable_hex": "133F",
+        "syllable_phonetic": "TSWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፀ",
+        "syllable_decimal": 4928,
+        "syllable_hex": "1340",
+        "syllable_phonetic": "TZA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፁ",
+        "syllable_decimal": 4929,
+        "syllable_hex": "1341",
+        "syllable_phonetic": "TZU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፂ",
+        "syllable_decimal": 4930,
+        "syllable_hex": "1342",
+        "syllable_phonetic": "TZI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፃ",
+        "syllable_decimal": 4931,
+        "syllable_hex": "1343",
+        "syllable_phonetic": "TZAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፄ",
+        "syllable_decimal": 4932,
+        "syllable_hex": "1344",
+        "syllable_phonetic": "TZEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፅ",
+        "syllable_decimal": 4933,
+        "syllable_hex": "1345",
+        "syllable_phonetic": "TZE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፆ",
+        "syllable_decimal": 4934,
+        "syllable_hex": "1346",
+        "syllable_phonetic": "TZO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፇ",
+        "syllable_decimal": 4935,
+        "syllable_hex": "1347",
+        "syllable_phonetic": "TZOA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፈ",
+        "syllable_decimal": 4936,
+        "syllable_hex": "1348",
+        "syllable_phonetic": "FA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፉ",
+        "syllable_decimal": 4937,
+        "syllable_hex": "1349",
+        "syllable_phonetic": "FU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፊ",
+        "syllable_decimal": 4938,
+        "syllable_hex": "134A",
+        "syllable_phonetic": "FI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፋ",
+        "syllable_decimal": 4939,
+        "syllable_hex": "134B",
+        "syllable_phonetic": "FAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፌ",
+        "syllable_decimal": 4940,
+        "syllable_hex": "134C",
+        "syllable_phonetic": "FEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፍ",
+        "syllable_decimal": 4941,
+        "syllable_hex": "134D",
+        "syllable_phonetic": "FE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፎ",
+        "syllable_decimal": 4942,
+        "syllable_hex": "134E",
+        "syllable_phonetic": "FO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፏ",
+        "syllable_decimal": 4943,
+        "syllable_hex": "134F",
+        "syllable_phonetic": "FWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፐ",
+        "syllable_decimal": 4944,
+        "syllable_hex": "1350",
+        "syllable_phonetic": "PA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፑ",
+        "syllable_decimal": 4945,
+        "syllable_hex": "1351",
+        "syllable_phonetic": "PU",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፒ",
+        "syllable_decimal": 4946,
+        "syllable_hex": "1352",
+        "syllable_phonetic": "PI",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፓ",
+        "syllable_decimal": 4947,
+        "syllable_hex": "1353",
+        "syllable_phonetic": "PAA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፔ",
+        "syllable_decimal": 4948,
+        "syllable_hex": "1354",
+        "syllable_phonetic": "PEE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፕ",
+        "syllable_decimal": 4949,
+        "syllable_hex": "1355",
+        "syllable_phonetic": "PE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፖ",
+        "syllable_decimal": 4950,
+        "syllable_hex": "1356",
+        "syllable_phonetic": "PO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፗ",
+        "syllable_decimal": 4951,
+        "syllable_hex": "1357",
+        "syllable_phonetic": "PWA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፘ",
+        "syllable_decimal": 4952,
+        "syllable_hex": "1358",
+        "syllable_phonetic": "RYA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፙ",
+        "syllable_decimal": 4953,
+        "syllable_hex": "1359",
+        "syllable_phonetic": "MYA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "ፚ",
+        "syllable_decimal": 4954,
+        "syllable_hex": "135A",
+        "syllable_phonetic": "FYA",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፠",
+        "syllable_decimal": 4960,
+        "syllable_hex": "1360",
+        "syllable_phonetic": "ETHIOPIC SECTION MARK",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "፡",
+        "syllable_decimal": 4961,
+        "syllable_hex": "1361",
+        "syllable_phonetic": "ETHIOPIC WORDSPACE",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "።",
+        "syllable_decimal": 4962,
+        "syllable_hex": "1362",
+        "syllable_phonetic": "ETHIOPIC FULL STOP",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "፣",
+        "syllable_decimal": 4963,
+        "syllable_hex": "1363",
+        "syllable_phonetic": "ETHIOPIC COMMA",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "፤",
+        "syllable_decimal": 4964,
+        "syllable_hex": "1364",
+        "syllable_phonetic": "ETHIOPIC SEMICOLON",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "፥",
+        "syllable_decimal": 4965,
+        "syllable_hex": "1365",
+        "syllable_phonetic": "ETHIOPIC COLON",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "፦",
+        "syllable_decimal": 4966,
+        "syllable_hex": "1366",
+        "syllable_phonetic": "ETHIOPIC PREFACE COLON",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "፧",
+        "syllable_decimal": 4967,
+        "syllable_hex": "1367",
+        "syllable_phonetic": "ETHIOPIC QUESTION MARK",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "፨",
+        "syllable_decimal": 4968,
+        "syllable_hex": "1368",
+        "syllable_phonetic": "ETHIOPIC PARAGRAPH SEPARATOR",
+        "syllable_grouping": "punctuation"
+      },
+      {
+        "syllable": "፩",
+        "syllable_decimal": 4969,
+        "syllable_hex": "1369",
+        "syllable_phonetic": "ETHIOPIC DIGIT ONE",
+        "syllable_grouping": "digit"
+      },
+      {
+        "syllable": "፪",
+        "syllable_decimal": 4970,
+        "syllable_hex": "136A",
+        "syllable_phonetic": "ETHIOPIC DIGIT TWO",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፫",
+        "syllable_decimal": 4971,
+        "syllable_hex": "136B",
+        "syllable_phonetic": "ETHIOPIC DIGIT THREE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፬",
+        "syllable_decimal": 4972,
+        "syllable_hex": "136C",
+        "syllable_phonetic": "ETHIOPIC DIGIT FOUR",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፭",
+        "syllable_decimal": 4973,
+        "syllable_hex": "136D",
+        "syllable_phonetic": "ETHIOPIC DIGIT FIVE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፮",
+        "syllable_decimal": 4974,
+        "syllable_hex": "136E",
+        "syllable_phonetic": "ETHIOPIC DIGIT SIX",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፯",
+        "syllable_decimal": 4975,
+        "syllable_hex": "136F",
+        "syllable_phonetic": "ETHIOPIC DIGIT SEVEN",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፰",
+        "syllable_decimal": 4976,
+        "syllable_hex": "1370",
+        "syllable_phonetic": "ETHIOPIC DIGIT EIGHT",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፱",
+        "syllable_decimal": 4977,
+        "syllable_hex": "1371",
+        "syllable_phonetic": "ETHIOPIC DIGIT NINE",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፲",
+        "syllable_decimal": 4978,
+        "syllable_hex": "1372",
+        "syllable_phonetic": "ETHIOPIC NUMBER TEN",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፳",
+        "syllable_decimal": 4979,
+        "syllable_hex": "1373",
+        "syllable_phonetic": "ETHIOPIC NUMBER TWENTY",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፴",
+        "syllable_decimal": 4980,
+        "syllable_hex": "1374",
+        "syllable_phonetic": "ETHIOPIC NUMBER THIRTY",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፵",
+        "syllable_decimal": 4981,
+        "syllable_hex": "1375",
+        "syllable_phonetic": "ETHIOPIC NUMBER FORTY",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፶",
+        "syllable_decimal": 4982,
+        "syllable_hex": "1376",
+        "syllable_phonetic": "ETHIOPIC NUMBER FIFTY",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፷",
+        "syllable_decimal": 4983,
+        "syllable_hex": "1377",
+        "syllable_phonetic": "ETHIOPIC NUMBER SIXTY",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፸",
+        "syllable_decimal": 4984,
+        "syllable_hex": "1378",
+        "syllable_phonetic": "ETHIOPIC NUMBER SEVENTY",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፹",
+        "syllable_decimal": 4985,
+        "syllable_hex": "1379",
+        "syllable_phonetic": "ETHIOPIC NUMBER EIGHTY",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፺",
+        "syllable_decimal": 4986,
+        "syllable_hex": "137A",
+        "syllable_phonetic": "ETHIOPIC NUMBER NINETY",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፻",
+        "syllable_decimal": 4987,
+        "syllable_hex": "137B",
+        "syllable_phonetic": "ETHIOPIC NUMBER HUNDRED",
+        "syllable_grouping": "Ethiopic"
+      },
+      {
+        "syllable": "፼",
+        "syllable_decimal": 4988,
+        "syllable_hex": "137C",
+        "syllable_phonetic": "ETHIOPIC NUMBER TEN THOUSAND",
+        "syllable_grouping": "Ethiopic"
+      }
+    ]
+  }
