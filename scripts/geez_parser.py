@@ -2,10 +2,10 @@ import json
 import io
 
 
-sentence = r'ተጻብኦታት ኬጋጥመና ኸሎ፡ ኣብ የሆዋን ኣብ ውድቡን ዘሎና ተኣማንነት ኪፍተን ይኽእል እዩ።'
+sentence = r'ፍልስፍና ከግሪኩ φιλοσοφία (ፊሎዞፊያ) የመጣ ሲሆን ትርጉሙም የጥበብ ፍቅር ነው። ስለዚህ የፍልስፍና ዕውቀት ሁለት ነገሮችን መነሻ ያደረጋል። አንደኛው፣ «ጥበብ አለ» የሚል ሲሆን፣ ሁለተኛው «ይህ ጥበብ ሊደረስበት ይቻላል» የሚል ነው።'
 sentence_phonetic = ''
 
-f = open('geez_syllables.json', mode="r", encoding="utf-8")
+f = open('.\\resources\\geez_syllables.json', mode="r", encoding="utf-8")
 
 # returns JSON object as 
 # a dictionary

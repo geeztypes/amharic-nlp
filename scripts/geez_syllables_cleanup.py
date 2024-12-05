@@ -7,4 +7,4 @@ abugida_five = 5
 abugida_six = 6
 abugida_seven = 7
 
-f = open('geez_syllables.json', mode="r", encoding="utf-8")
+f = open('.\\resources\\geez_syllables.json', mode="r", encoding="utf-8")
